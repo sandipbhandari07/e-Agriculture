@@ -1,0 +1,39 @@
+/*
+theme Name: simpleisbest
+Author: simpleisbest8500
+Description: This is a simple theme. You can easily change the layout from the theme options. Easy to switch from 1 column to 2 columns.You can choose the layout from 3 patterns for the header and 2 patterns for the footer. It's easy to customize because it doesn't have any extra decorations or detailed settings.
+Text Domain: simpleisbest
+License:GPLv2 or later
+License URI:http://www.gnu.org/licenses/gpl-2.0.html
+version:1.0.6
+Tested up to: 5.3
+Requires PHP: 7.2.12
+Tags:blog , one-column , two-columns , right-sidebar , theme-options
+*/
+/*****************/
+.wp-caption,.wp-caption-text,.gallery-caption{
+    font-size:100%;
+}
+.sticky{
+    background: #f9f9f9;
+    border:solid 1px #e9e9e9;
+}
+.bypostauthor{
+    background:lightblue;
+}
+.alignright{
+    float:right;
+} 
+.alignleft{
+    float:left;
+}
+.aligncenter{
+    display:block;
+}
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}

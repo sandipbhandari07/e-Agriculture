@@ -1,0 +1,35 @@
+textarea{
+    background:#222 !important;
+    color:white !important;
+    max-height:none !important;
+    font-size:14px !important;
+    line-height:2;
+    font-family:sans-serif !important;
+}
+.block-editor-block-list__block{
+    margin:5px auto;
+}
+.editor-post-title__input{
+    /*page title*/
+    font-size:24px !important;
+    box-sizing: border-box;
+    padding:15px;
+    height: auto;
+}
+.edit-post-text-editor__body textarea.editor-post-text-editor{
+    /*text editor*/
+    font-size:14px !important;
+    line-height:2;
+}
+.wp-block,.edit-post-text-editor__body{
+    max-width:none !important;
+}
+/*visual editor**************************************/
+.block-editor-block-list__layout{
+    border:solid 1px #d9d9d9;
+    background: #f9f9f9;
+    padding:5px;
+}
+p.block-editor-rich-text__editable{
+    margin:5px auto;
+}

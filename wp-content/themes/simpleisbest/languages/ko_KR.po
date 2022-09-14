@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-04-08 11:49+0900\n"
+"PO-Revision-Date: 2021-04-08 11:49+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: 404.php\n"
+"X-Poedit-SearchPath-1: archive.php\n"
+"X-Poedit-SearchPath-2: breadcrumbs.php\n"
+"X-Poedit-SearchPath-3: comments.php\n"
+"X-Poedit-SearchPath-4: footer.php\n"
+"X-Poedit-SearchPath-5: functions.php\n"
+"X-Poedit-SearchPath-6: header.php\n"
+"X-Poedit-SearchPath-7: index.php\n"
+"X-Poedit-SearchPath-8: loop-content.php\n"
+"X-Poedit-SearchPath-9: page.php\n"
+"X-Poedit-SearchPath-10: search.php\n"
+"X-Poedit-SearchPath-11: sidebar.php\n"
+"X-Poedit-SearchPath-12: single.php\n"
+"X-Poedit-SearchPath-13: style.css\n"
+"X-Poedit-SearchPath-14: style.php\n"
+
+#: 404.php:12
+msgid "NOT FOUND."
+msgstr "찾을 수 없습니다."
+
+#: 404.php:13
+msgid "I'm sorry. The page you were looking for was not found."
+msgstr "죄송 해요. 찾고 있던 페이지를 찾을 수 없습니다."
+
+#: archive.php:8 archive.php:31
+msgid "Post list"
+msgstr "글 목록"
+
+#: archive.php:11 archive.php:34
+msgid "Category list"
+msgstr "글 목록"
+
+#: archive.php:26 breadcrumbs.php:2 single.php:24
+msgid "HOME"
+msgstr "집"
+
+#: breadcrumbs.php:22 breadcrumbs.php:37 loop-content.php:30 page.php:15
+#: single.php:36 single.php:55 single.php:93 single.php:117
+msgid "Untitled"
+msgstr "제목 없음"
+
+#: comments.php:3
+msgid "Comment"
+msgstr "논평"
+
+#: footer.php:35
+msgid "TEL"
+msgstr "전화"
+
+#: footer.php:40
+msgid "FAX"
+msgstr "팩스"
+
+#: footer.php:45
+msgid "Email"
+msgstr "이메일"
+
+#: footer.php:50
+msgid "ADDRESS"
+msgstr "주소"
+
+#: functions.php:64
+msgid "Theme-Options"
+msgstr "테마 옵션"
+
+#: functions.php:77
+msgid "phone number"
+msgstr "전화 번호"
+
+#: functions.php:90
+msgid "fax number"
+msgstr "팩스 번호"
+
+#: functions.php:103
+msgid "Email Address"
+msgstr "이메일 주소"
+
+#: functions.php:116
+msgid "Address"
+msgstr "주소"
+
+#: functions.php:129
+msgid "Common Color"
+msgstr "일반적인 색상"
+
+#: functions.php:142
+msgid "Select Column"
+msgstr "열 선택"
+
+#: functions.php:145
+msgid "1 column"
+msgstr "1기둥"
+
+#: functions.php:146
+msgid "2 column"
+msgstr "2기둥"
+
+#: functions.php:159
+msgid "Select Header Layout"
+msgstr "헤더 레이아웃 선택"
+
+#: functions.php:162
+msgid "header1"
+msgstr "헤더1"
+
+#: functions.php:163
+msgid "header2"
+msgstr "헤더2"
+
+#: functions.php:164
+msgid "header3"
+msgstr "헤더3"
+
+#: functions.php:177
+msgid "Select Footer Layout"
+msgstr "바닥 글 레이아웃 선택"
+
+#: functions.php:180
+msgid "footer1"
+msgstr "보행인1"
+
+#: functions.php:181
+msgid "footer2"
+msgstr "보행인2"
+
+#: header.php:12
+msgid "Skip to content"
+msgstr "컨텐츠로 넘어가기"
+
+#: search.php:3 search.php:19
+msgid "search results"
+msgstr "검색 결과"
+
+#: search.php:16
+msgid "No search keyword entered"
+msgstr "입력 된 검색 키워드가 없습니다."
+
+#: search.php:21
+msgid "Case"
+msgstr "케이스"
+
+#: search.php:30
+msgid "There were no articles matching the searched keywords"
+msgstr "검색된 키워드와 일치하는 기사가 없습니다"
+
+#: single.php:59
+msgid "Posted date"
+msgstr "게시일"
+
+#: single.php:82
+msgid "PREV"
+msgstr "이전"
+
+#: single.php:100
+msgid "NEXT"
+msgstr "다음"
+
+#~ msgid "logo"
+#~ msgstr "심벌 마크"
+
+#~ msgid "Top Page Main Visual"
+#~ msgstr "톱 페이지 메인 비주얼"
+
+#~ msgid "Page Title Background Image"
+#~ msgstr "페이지 제목 배경 이미지"
